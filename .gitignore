@@ -8,3 +8,8 @@ projectName.iml
 /build
 /local.properties
 target/
+*.properties
+.gradle/
+gradlew
+gradlew.bat
+gradle/*
