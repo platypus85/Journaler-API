@@ -1,0 +1,1 @@
+/Users/albertocamillo/Documents/Kotlin/projects/api/build/classes/kotlin/main/com/albertocamillo/api/ApiApplication.class:/Users/albertocamillo/Documents/Kotlin/projects/api/build/classes/kotlin/main/com/albertocamillo/api/ApiApplicationKt.class
